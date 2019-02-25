@@ -1,0 +1,39 @@
+Decision At Thunder Rift is a one-on-one 'mech combat game.
+'mechs (or, more properly, Battlemechs) are 10-15 meter tall
+bipedal combat robots controlled by a human pilot. They carry
+a vast array of weapons and enough armor to be practically
+impervious to everything but another 'mech. 
+
+
+In this game weapons all have different damage, heat, and chance to hit
+values. During each of your combat rounds you will be able
+to fire any combination of the weapons on your mech, however, 
+be sure to watch your heat levels. If your heat is over 30
+at the beginning of any combat round, your mech will be 
+considered "overheated" and you will miss at least one turn.
+At the end of every combat round you will dissipate heat
+equal to the number of heatsinks equipped on your mech. 
+REMEMBER: keep your heat below 30 at the beginning of each
+new round or you will lose a turn to cool off.
+
+
+Fired weapons will either hit or miss the enemy mech based
+on a 20 sided dice roll. for each weapon fired, a random number
+between 1 and 20 will be generated. This number will be
+multiplied by the weapon's 'to hit chance' and compared against
+the opposing 'mech's speed. If the roll * 'to hit chance'
+is higher then the enemy mech's speed you score a hit. Weapon
+fire will generate heat regardless of whether it hits or
+misses.
+
+
+Damage for each hit is applied to 1 of 8 components on a mech:
+Head, Left Arm, Left Torso, Center Torso, Right Torso, Right
+Arm, Left Leg, or Right Leg. When a 'mech's Head, Center
+Torso, or both legs have been destroyed it is considered 'dead'
+and the game will end.
+
+
+This is war and your opponent will be shooting back, so keep
+your head down, your heat low and your crosshairs centered!
+Good luck and have fun, Mechwarrior <o  

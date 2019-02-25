@@ -1,0 +1,45 @@
+Project Description 
+Tyler Valentine
+
+My project is a mech combat game based on the Battletech universe. Rules are included in game but I will go over
+everything here as well per the instructions on moodle.
+
+The game opens with an introduction to the universe and the situation that the player finds him/herself in. After
+reading the rules and some opening text the user is prompted to select from one of 4 mechs (giant fighting robots).
+Each mech has different attributes with some having more armor and firepower and others being harder to hit.
+The key attributes for each mech are as follows:
+
+Armor: each mech has 8 components that represent the Head, Left and Right Arms, Left and Right Legs, Left and
+Right Torsos and Center Torso. The amount of armor on each component varies from mech to mech with the slowest
+mechs having the most and the fastest mechs having the least. If all of the armor is destroyed on either the head
+or the center torso of a mech the mech is destroyed. Additionally if all of the armor on both legs of the mech is
+destroyed the mech is destroyed
+
+Speed: Speed determines how hard a mech is to hit, The higher a mech's speed the higher the 'dice' roll that is
+needed to hit that mech. The least armored mechs have the highest speed and vice versa.
+
+Weapons: Each mech as a different array of weapons including LASERs, Autocannons, Particle Projection Cannons and
+Missles. Firing weapons and scoring hits removes armor from the enemy mech but also generates heat. The player needs
+to weigh what weapons to fire against their current heat levels. If heat rises above 30, the mech will shut down
+and the player will have to cool off for a round.
+
+Heatsinks: Heatsinks dissipate heat at the end of each combat round.
+
+Once a mech has been selected the user reads through more text setting up the main confrontation of the game, a one on
+one fight between the player and the leader of the enemy forces. Each round the player will be able to fire weapons
+and use their sensors in an attempt to destroy the enemy mech. After each player turn the enemy 'AI' will fire back
+at the player mech with a variety of weapons that are determined by a random dice roll and its current heat level.
+Once one of the mechs has been destroyed the game ends with appropriate text.
+
+I hope you like it! 
+
+
+Included main files:
+
+Mechwarrior_Main.cpp
+weapon.cpp
+weapon.h
+Mech.cpp
+Mech.h
+
+Additional files include txt files for function input and screenshots.
